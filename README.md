@@ -6,7 +6,7 @@ The name of this course is "Software Requirements". And our teacher is 杨枨.
 
 We are from Zhejiang University City College in China.
 
-There are four people in our group.And there are members'information
+There are five people in our group.And there are members'information
 
 
 姓名	       角色	        联系电话	             邮箱	                       微信	                  QQ	           地址
